@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  <img height="25" src="https://cdn.discordapp.com/emojis/761076486454378506.webp">
 </div><br/>
 
 Apaixonado por jogos indie e a programação deles, quero me tornar um futuro programador fullstack e lançar um jogo na Steam
