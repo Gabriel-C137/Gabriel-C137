@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Olá! Eu sou o Gabriel 🙋‍♂️
-| 20 anos<br>
+| 21 anos<br>
 | Franca-SP 🌆<br>
-| DSM - [Fatec](https://site.fatecfranca.edu.br/) (2/6)
+| DSM - [Fatec](https://site.fatecfranca.edu.br/) (3/6)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_c137)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) - https.gabriel
