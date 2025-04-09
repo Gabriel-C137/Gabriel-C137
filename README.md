@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) - https.gabriel
 
 <br>
-
-![MetalGear](https://github.com/Gabriel-C137/Gabriel-C137/assets/91295561/7f9800a0-4908-464e-b78f-3acc6eedf35e)
-
-<div align="center">Kept you waiting, huh?</div>
-
 <br>
 
 ## Tecnologias que estou estudando
