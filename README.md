@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) - https.gabriel
 
 <br>
+<p align="center">
+<a href="https://github.com/Gabriel_C137">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+
 <br>
 
 ## Tecnologias que estou estudando
