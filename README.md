@@ -34,4 +34,4 @@
 
 ---
 
-💡 Apaixonado por jogos indie e a programação deles, quero me tornar um futuro programador fullstack e lançar um jogo na Steam!
+💡 Sou apaixonado por jogos indie e por tudo que envolve criá-los. Estou me dedicando à programação com o objetivo de me tornar um desenvolvedor fullstack e, quem sabe em breve, lançar meu próprio jogo na Steam!
