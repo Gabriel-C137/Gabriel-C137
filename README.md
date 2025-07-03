@@ -11,7 +11,7 @@
   <a href="https://instagram.com/gabriel_c137" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://https.gabriel" target="_blank">
+  <a href="https://discord.com/https.gabriel" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
     <img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" />
