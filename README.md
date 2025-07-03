@@ -1,10 +1,9 @@
 <h1 align="center">Olá! Eu sou o Gabriel 🖐️</h1>
 
-<p align="center">
+
   | 21 anos <br>
   | Franca - SP 🏙️ <br>
   | DSM - <a href="https://fatecfranca.edu.br" target="_blank">Fatec</a> (3/6)
-</p>
 
 <p align="center">
   <a href="https://instagram.com/gabriel_c137" target="_blank">
