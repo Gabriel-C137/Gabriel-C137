@@ -12,9 +12,8 @@
   <a href="https://https.gabriel" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="tel:+5516997391181">
     <img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" />
-  </a>
+    <p>+55 (16) 997391181</p>
 </p>
 
 ---
