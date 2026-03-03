@@ -1,28 +1,32 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Camara</h1>
+<h1 align="center">🎮 Olá, eu sou o Gabriel Camara</h1>
 
 <p align="center">
   💼 Técnico de TI na Santa Casa de Franca <br>
-  🎓 Desenvolvimento de Software Multiplataforma <br>
+  🎓 Estudante de Desenvolvimento de Software Multiplataforma <br>
   📍 Franca - SP • 22 anos
 </p>
 
 <p align="center">
-  🎮 Indie Game Lover • 💻 Futuro Fullstack • 🚀 Criando meu próprio caminho
+  <b>Entre servidores e sistemas durante o dia, código e ideias de jogos durante a noite.</b>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Atualmente atuo como **Técnico de TI**, trabalhando com suporte, infraestrutura e sistemas no ambiente hospitalar.
+Trabalho como **Técnico de TI**, lidando diariamente com suporte, infraestrutura e sistemas em ambiente hospitalar — onde estabilidade e responsabilidade não são opcionais.
 
-Sou apaixonado por tecnologia e principalmente por jogos — especialmente os indies — e tudo que envolve criá-los.
+Mas fora do expediente?  
+É onde entra minha verdadeira paixão.
 
-🔥 Meu objetivo é evoluir como desenvolvedor Fullstack e lançar meu próprio jogo na Steam.
+Sou movido por tecnologia, criatividade e principalmente por jogos — especialmente os indies, aqueles feitos com alma.
+
+Meu objetivo é evoluir como desenvolvedor Fullstack e, no futuro, lançar meu próprio jogo na Steam.  
+Não só jogar histórias… mas criá-las.
 
 ---
 
-## 🛠️ Stack em evolução
+## ⚔️ Minha Stack (em evolução constante)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
@@ -35,9 +39,13 @@ Sou apaixonado por tecnologia e principalmente por jogos — especialmente os in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
+<p align="center">
+  🔥 Sempre aprendendo. Sempre evoluindo.
+</p>
+
 ---
 
-## 📊 Estatísticas
+## 📊 Consistência é o verdadeiro boss final
 
 <p align="center">
   
@@ -47,7 +55,7 @@ Sou apaixonado por tecnologia e principalmente por jogos — especialmente os in
 
 ---
 
-## 📫 Contato
+## 🎧 Conecte-se comigo
 
 <p align="center">
   <a href="https://instagram.com/gabriel_c137" target="_blank">
@@ -65,5 +73,5 @@ Sou apaixonado por tecnologia e principalmente por jogos — especialmente os in
 ---
 
 <p align="center">
-  <i>⚡ Transformando ideias em código.</i>
+  <i>"Great games aren't played. They're built."</i> 🎮
 </p>
