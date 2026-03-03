@@ -68,14 +68,17 @@ Não só jogar histórias… mas criá-las.
   </a>
 </p>
 
+<br>
+
 <p align="center">
-
   📱 +55 (16) 99739-1181
+</p>
 
-  Acesso direto:
-  <a>
-    [  https://wa.me/5516997391181?text=Ol%C3%A1%20Gabriel%2C%20venho%20atr%C3%A1vez%20do%20seu%20perfil%20do%20GitHub%20%3A)](https://wa.me/5516997391181?text=Ol%C3%A1%20Gabriel%2C%20venho%20atr%C3%A1ves%20do%20seu%20perfil%20do%20GitHub)
-  </a>
+<br>
+
+<p>
+  Acesso direto: <br>
+    [(https://wa.me/5516997391181?text=Ol%C3%A1%20Gabriel%2C%20venho%20atr%C3%A1ves%20do%20seu%20perfil%20do%20GitHub)]
 </p>
 
 ---
