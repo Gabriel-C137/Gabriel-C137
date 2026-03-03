@@ -37,11 +37,11 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnic
 <p align="center">
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-C137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel_C137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
     height="170em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-C137&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_C137&layout=compact&theme=tokyonight"
   />
 </p>
 
