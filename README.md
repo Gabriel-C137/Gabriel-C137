@@ -35,15 +35,9 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnic
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel_C137&show_icons=true&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel_C137&layout=compact&theme=radical"
-  />
+  
+  ![stats](https://github-readme-stats.vercel.app/api?username=Gabriel_C137&show_icons=true)
+  
 </p>
 
 ---
