@@ -1,43 +1,48 @@
-<h1 align="center">👋 Olá comunidade, sou Gabriel Camara</h1>
+<h1 align="center">👋 Olá, eu sou o Gabriel Camara</h1>
 
 <p align="center">
   💼 Técnico de TI na Santa Casa de Franca <br>
-  📍 Franca - SP <br>
-  🎂 22 anos
+  🎓 Desenvolvimento de Software Multiplataforma <br>
+  📍 Franca - SP • 22 anos
+</p>
+
+<p align="center">
+  🎮 Indie Game Lover • 💻 Futuro Fullstack • 🚀 Criando meu próprio caminho
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnico de TI, trabalhando diretamente com suporte, infraestrutura e sistemas.
+Atualmente atuo como **Técnico de TI**, trabalhando com suporte, infraestrutura e sistemas no ambiente hospitalar.
 
-🎮 Apaixonado por jogos no geral, em especial os indies e por tudo que envolve criá-los  
-🔥 Objetivo - Me tornar desenvolvedor fullstack e lançar meu próprio jogo na Steam
+Sou apaixonado por tecnologia e principalmente por jogos — especialmente os indies — e tudo que envolve criá-los.
+
+🔥 Meu objetivo é evoluir como desenvolvedor Fullstack e lançar meu próprio jogo na Steam.
 
 ---
 
-## 🛠️ Tecnologias que estou estudando
+## 🛠️ Stack em evolução
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 ---
@@ -53,10 +58,12 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnic
   </a>
 </p>
 
-📱 Telefone: +55 (16) 99739-1181
+<p align="center">
+  📱 +55 (16) 99739-1181
+</p>
 
 ---
 
 <p align="center">
-  ⚡ "Transformando ideias em código."
+  <i>⚡ Transformando ideias em código.</i>
 </p>
