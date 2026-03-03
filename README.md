@@ -1,27 +1,26 @@
-<h1 align="center">Olá! Eu sou o Gabriel Camara 🖐️</h1>
-
-
-  | 21 anos <br>
-  | Franca - SP 🏙️ <br>
-  | DSM - <a href="https://fatecfranca.edu.br" target="_blank">Fatec</a> (3/6) <br>
-
-  | +55 (16) 997391181 <br>
+<h1 align="center">👋 Olá! Eu sou o Gabriel Camara</h1>
 
 <p align="center">
-  <a href="https://instagram.com/gabriel_c137" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/https.gabriel" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-    <img src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone" />
+  🎓 DSM - Fatec Franca (3/6) <br>
+  📍 Franca - SP <br>
+  🎂 21 anos <br>
 </p>
 
 ---
 
-### 🚀 Tecnologias que estou estudando
+## 🚀 Sobre mim
 
-<p>
+Sou estudante de Desenvolvimento de Software Multiplataforma e apaixonado por tecnologia e criação de jogos.
+
+💡 Tenho grande interesse em desenvolvimento Fullstack  
+🎮 Amo jogos indie e tudo que envolve criá-los  
+🔥 Meu objetivo é lançar meu próprio jogo na Steam  
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -34,4 +33,21 @@
 
 ---
 
-💡 Sou apaixonado por jogos indie e por tudo que envolve criá-los. Estou me dedicando à programação com o objetivo de me tornar um desenvolvedor fullstack e, quem sabe em breve, lançar meu próprio jogo na Steam!
+## 📫 Contato
+
+<p align="center">
+  <a href="https://instagram.com/gabriel_c137" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/https.gabriel" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+📱 Telefone: +55 (16) 99739-1181
+
+---
+
+<p align="center">
+  ⚡ "Transformando ideias em código."
+</p>
