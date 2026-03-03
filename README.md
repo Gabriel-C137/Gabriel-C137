@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 <h1 align="center">🎮 Olá, eu sou o Gabriel Camara</h1>
 
 <p align="center">
@@ -16,12 +20,13 @@
 
 Trabalho como **Técnico de TI**, lidando diariamente com suporte, infraestrutura e sistemas em ambiente hospitalar — onde estabilidade e responsabilidade não são opcionais.
 
-Mas fora do expediente?  
+Mas fora do expediente?
+
 É onde entra minha verdadeira paixão.
 
 Sou movido por tecnologia, criatividade e principalmente por jogos — especialmente os indies, aqueles feitos com alma.
 
-Meu objetivo é evoluir como desenvolvedor Fullstack e, no futuro, lançar meu próprio jogo na Steam.  
+🔥 Meu objetivo é evoluir como desenvolvedor Fullstack e, no futuro, lançar meu próprio jogo na Steam.  
 Não só jogar histórias… mas criá-las.
 
 ---
@@ -49,8 +54,8 @@ Não só jogar histórias… mas criá-las.
 
 <p align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 ---
