@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets//pixel_city.jpg" width="100%" />
 </p>
 
 <h1 align="center">🎮 Olá, eu sou o Gabriel Camara</h1>
