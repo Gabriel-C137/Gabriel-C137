@@ -2,7 +2,7 @@
   <img src="assets//pixel_city.jpg" width="100%" />
 </p>
 
-<h1 align="center">🎮 Olá, eu sou o Gabriel Camara</h1>
+<h1 align="center">🎮 Olá, aqui é o Gabriel</h1>
 
 <p align="center">
   💼 Técnico de TI na Santa Casa de Franca <br>
@@ -66,17 +66,20 @@ Não só jogar histórias… mas criá-las.
   <a href="https://instagram.com/gabriel_c137" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/https.gabriel" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
+
   📱 +55 (16) 99739-1181
+
+  Acesso direto:
+  <a>
+    [  https://wa.me/5516997391181?text=Ol%C3%A1%20Gabriel%2C%20venho%20atr%C3%A1vez%20do%20seu%20perfil%20do%20GitHub%20%3A)](https://wa.me/5516997391181?text=Ol%C3%A1%20Gabriel%2C%20venho%20atr%C3%A1ves%20do%20seu%20perfil%20do%20GitHub)
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great games aren't played. They're built."</i> 🎮
+  <i>"O impossível é questão de opinião"</i> 🎮
 </p>
