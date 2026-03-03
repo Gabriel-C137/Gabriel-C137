@@ -1,20 +1,19 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Camara</h1>
+<h1 align="center">👋 Olá comunidade, sou Gabriel Camara</h1>
 
 <p align="center">
-  🎓 DSM - Fatec Franca (3/6) <br>
+  💼 Técnico de TI na Santa Casa de Franca <br>
   📍 Franca - SP <br>
-  🎂 21 anos <br>
+  🎂 22 anos
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Desenvolvimento de Software Multiplataforma e apaixonado por tecnologia e criação de jogos.
+Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnico de TI, trabalhando diretamente com suporte, infraestrutura e sistemas.
 
-💡 Tenho grande interesse em desenvolvimento Fullstack  
-🎮 Amo jogos indie e tudo que envolve criá-los  
-🔥 Meu objetivo é lançar meu próprio jogo na Steam  
+🎮 Apaixonado por jogos no geral, em especial os indies e por tudo que envolve criá-los  
+🔥 Objetivo - Me tornar desenvolvedor fullstack e lançar meu próprio jogo na Steam
 
 ---
 
@@ -29,6 +28,21 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e apaixonado por te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="170em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ---
