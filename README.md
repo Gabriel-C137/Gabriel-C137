@@ -36,7 +36,7 @@ Sou estudante de Desenvolvimento de Software Multiplataforma e atuo como Técnic
 
 <p align="center">
   
-  ![stats](https://github-readme-stats.vercel.app/api?username=Gabriel_C137&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
 </p>
 
