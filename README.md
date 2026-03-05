@@ -54,8 +54,7 @@ Não só jogar histórias… mas criá-las.
 
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-C137&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
